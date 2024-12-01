@@ -100,7 +100,5 @@ The purpose of this website is to showcase my skills, projects, and experiences 
 - **Interactive Elements:** The website includes interactive elements such as animations and hover effects to enhance user engagement.
 - **Project Modals:** Detailed project descriptions are displayed in modals, allowing users to view more information without leaving the page.
 - **AOS Animations:** The website uses AOS (Animate On Scroll) library to add smooth scrolling animations to various elements.
-- **Custom Icons:** Unique icons are used to represent different skills and project categories, adding a personalized touch to the design.
-
 
 Thank you for visiting my portfolio!
