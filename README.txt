@@ -82,4 +82,25 @@ Feel free to reach out to me via:
 - **Email:** syahirahnabiha.my@gmail.com
 - **GitHub:** https://github.com/sya03
 
+
+//more about the projects//
+
+## Purpose
+The purpose of this website is to showcase my skills, projects, and experiences as a FRONTEND & UI/UX Developer. It serves as a platform to highlight my work and connect with potential employers, collaborators, and clients.
+
+## Technologies Used
+- **HTML:** For structuring the content of the website.
+- **CSS:** For styling and layout of the website.
+- **JavaScript:** For adding interactivity and dynamic elements.
+- **PHP:** For server-side scripting and backend development.
+- **Adobe Creative Suite:** For graphic design and creative tasks.
+
+## Special Features
+- **Responsive Design:** The website is fully responsive and adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
+- **Interactive Elements:** The website includes interactive elements such as animations and hover effects to enhance user engagement.
+- **Project Modals:** Detailed project descriptions are displayed in modals, allowing users to view more information without leaving the page.
+- **AOS Animations:** The website uses AOS (Animate On Scroll) library to add smooth scrolling animations to various elements.
+- **Custom Icons:** Unique icons are used to represent different skills and project categories, adding a personalized touch to the design.
+
+
 Thank you for visiting my portfolio!
